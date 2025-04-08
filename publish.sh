@@ -7,7 +7,7 @@ OUT_DIR="sprime3dots.github.io"
 bundle exec jekyll build -d $OUT_DIR
 
 # Copy DATA files to OUt_DIR
-# cp DATA/CNAME $OUT_DIR
+cp DATA/CNAME $OUT_DIR
 
 # Commit and push to github
 cd $OUT_DIR
