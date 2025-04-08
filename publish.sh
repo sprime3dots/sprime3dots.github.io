@@ -2,6 +2,7 @@
 
 # set variable for tuannq-nii.github.io
 OUT_DIR="sprime3dots.github.io"
+# OUT_DIR="blogs"
 
 # Generate static pages
 bundle exec jekyll build -d $OUT_DIR

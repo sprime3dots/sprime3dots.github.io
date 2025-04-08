@@ -1,5 +1,4 @@
 User-agent: *
-
-Disallow: /norobots/
+Disallow:
 
 Sitemap: https://blogs.nqtuan0192.me/sitemap.xml

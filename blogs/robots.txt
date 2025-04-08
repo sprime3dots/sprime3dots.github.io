@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://portal.nqtuan0192.me/sitemap.xml
+Sitemap: https://portal.nqtuan0192.me/blogs/sitemap.xml
